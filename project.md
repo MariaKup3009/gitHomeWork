@@ -33,4 +33,6 @@
 
 *На закуску несколько полезных ресурсов, которые помогут вам освоить Git еще глубже:*
 
-1. 
+1. <https://githowto.com/ru>
+2. <https://ru.hexlet.io/courses/intro_to_git>
+3. <https://practicum.yandex.ru/git-basics/>
